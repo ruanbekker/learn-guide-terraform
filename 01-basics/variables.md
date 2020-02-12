@@ -47,7 +47,7 @@ Access the terraform console:
 ```
 $ terraform console
 > 
-``
+```
 
 Let's access our first variable, we can either use:
 
